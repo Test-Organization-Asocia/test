@@ -5,3 +5,4 @@ feature b change
 
 feat a ++++
 feat b++
+feat c
