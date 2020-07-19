@@ -4,3 +4,4 @@ feature a change
 feature b change
 
 feat a +++
+feat b++
